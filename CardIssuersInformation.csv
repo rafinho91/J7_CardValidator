@@ -1,0 +1,4 @@
+issuerName;prefix;numberOfDigits
+VISA;4;16
+MasterCard;51-55;16
+AmericanExpress;34,37;15
